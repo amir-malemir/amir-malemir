@@ -15,61 +15,44 @@
 
 ---
 
-### 🚀 **Featured Projects & System Design**
+### 🛠️ **My Core Tech Stack**
 
-<br>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+</p>
+
+---
+
+### 🚀 **Featured Projects**
 
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h4><a href="https://github.com/amir-malemir/Leave-Management-System-FastAPI" target="_blank">Leave Management API (FastAPI)</a></h4>
       <ul>
         <li>A RESTful API for managing employee leave requests, built with FastAPI & PostgreSQL.</li>
         <li>Features JWT-based authentication, unit testing with Pytest, and OpenAPI documentation.</li>
       </ul>
+    </td>
+    <td width="50%" valign="top">
       <h4><a href="https://github.com/amir-malemir/Book-Store-Django" target="_blank">E-commerce Bookstore (Django)</a></h4>
       <ul>
         <li>A modular e-commerce platform for selling books online.</li>
         <li>Implemented using Django, featuring user authentication and a product catalog management system.</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="top">
-      <strong>System Architecture Example</strong><br>
-      <em><small>(Leave Management API)</small></em><br><br>
-      <a href="[لینک به تصویر دیاگرام شما]" target="_blank">
-        <img src="https://raw.githubusercontent.com/amir-malemir/amir-malemir/main/assets/arch-placeholder.png" alt="Project Architecture Diagram"/>
-      </a>
-      <br>
-      <small><em><a href="https://excalidraw.com/" target="_blank">Click here to design your own diagram with Excalidraw</a></em></small>
-    </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ **My Core Tech Stack**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
----
-
-### 🌱 **Continuous Learning**
-
-<p align="center">
-  I am continuously deepening my knowledge in Computer Science fundamentals, with a special focus on <strong>Data Structures & Algorithms</strong>.
-</p>
-
----
-
-### 📊 **My GitHub Stats**
+### 📊 **My GitHub Stats & Activity**
 
 <table width="100%">
   <tr>
@@ -81,6 +64,10 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amir_malemir&theme=tokyonight&layout=compact" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/amir-malemir/amir-malemir/output/github-contribution-grid-snake.svg" />
