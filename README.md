@@ -1,10 +1,6 @@
-<h1 align="center">Hi, I'm Amir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Backend Developer | Python, Django & FastAPI</h3>
-
+<h1 align="center">Hi, I'm Amir 👋</h1>
 <p align="center">
-  I design and build the server-side logic and APIs that power modern web applications. 
-  <br/>
-  My focus is on writing clean, efficient, and maintainable code.
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+Developer;Python+%7C+Django+%7C+FastAPI;Always+Learning..._&height=100" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
