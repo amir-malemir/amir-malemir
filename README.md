@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=009688&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Amir+Malemir+%F0%9F%91%8B;Backend+Developer;Python+%7C+Django+%7C+FastAPI;Building+Scalable+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=009688&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Amir+Malemir+%F0%9F%91%8B;Backend+Developer;Python+%7C+Django+%7C+FastAPI;Building+Scalable+Systems" alt="Typing SVG" />
   </a>
 
   <p>
@@ -11,29 +11,17 @@
   
 </div>
 
----
-
-### 💻 My Core Tech Stack
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-</p>
+<br>
 
 ---
 
-### 🚀 Featured Projects & System Design
+### 🚀 **Featured Projects & System Design**
 
 <br>
 
 <table width="100%">
   <tr>
-    <td width="65%" valign="top">
+    <td width="60%" valign="top">
       <h4><a href="https://github.com/amir-malemir/Leave-Management-System-FastAPI" target="_blank">Leave Management API (FastAPI)</a></h4>
       <ul>
         <li>A RESTful API for managing employee leave requests, built with FastAPI & PostgreSQL.</li>
@@ -45,21 +33,35 @@
         <li>Implemented using Django, featuring user authentication and a product catalog management system.</li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="top">
+    <td width="40%" align="center" valign="top">
       <strong>System Architecture Example</strong><br>
       <em><small>(Leave Management API)</small></em><br><br>
       <a href="[لینک به تصویر دیاگرام شما]" target="_blank">
-        <img src="https://via.placeholder.com/400x300/000000/FFFFFF?text=Project+Architecture+Diagram%0A(Click+to+Enlarge)" alt="Project Architecture Diagram"/>
+        <img src="https://raw.githubusercontent.com/amir-malemir/amir-malemir/main/assets/arch-placeholder.png" alt="Project Architecture Diagram"/>
       </a>
       <br>
-      <small><em><a href="https://excalidraw.com/" target="_blank">Built with Excalidraw</a></em></small>
+      <small><em><a href="https://excalidraw.com/" target="_blank">Click here to design your own diagram with Excalidraw</a></em></small>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🌱 Continuous Learning
+### 🛠️ **My Core Tech Stack**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+### 🌱 **Continuous Learning**
 
 <p align="center">
   I am continuously deepening my knowledge in Computer Science fundamentals, with a special focus on <strong>Data Structures & Algorithms</strong>.
@@ -67,7 +69,7 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 **My GitHub Stats**
 
 <table width="100%">
   <tr>
