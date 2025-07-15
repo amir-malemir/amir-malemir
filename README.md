@@ -46,6 +46,8 @@ I love learning new technologies, contributing to open-source projects, and auto
 
 ---
 
+---
+
 ### 💻 **My Projects Showcase**
 
 <div align="center">
@@ -53,19 +55,19 @@ I love learning new technologies, contributing to open-source projects, and auto
 <table>
   <tr>
     <td width="45%" valign="top">
-      <h4 align="center">💼 <a href="https://github.com/amir-malemir/leave-project" target="_blank">Leave Management API</a></h4>
+      <h4 align="center">📝 <a href="https://github.com/amir-malemir/leave-project" target="_blank">Leave Management API</a></h4>
       <p align="center">
         RESTful API for managing employee leave requests.<br>
-        ➡️ **Tech:** FastAPI, SQLAlchemy, Alembic, PostgreSQL<br>
-        ➡️ Features JWT auth, role-based permissions, multi-stage approval flow, and unit tests with Pytest.
+        🔧 **Stack:** FastAPI, SQLAlchemy, Alembic, PostgreSQL<br>
+        ✅ Features JWT authentication, role-based permissions, multi-stage approval flows, and unit tests with Pytest.
       </p>
     </td>
     <td width="45%" valign="top">
       <h4 align="center">📚 <a href="https://github.com/amir-malemir/django_book_store" target="_blank">Django Bookstore</a></h4>
       <p align="center">
         An e-commerce platform for selling books online.<br>
-        ➡️ **Tech:** Django, SQLite, Bootstrap<br>
-        ➡️ Includes user auth, product catalog, cart functionality, and clean ORM models.
+        🔧 **Stack:** Django, SQLite, Bootstrap<br>
+        ✅ Includes user authentication, product catalog, cart functionality, and clean ORM models.
       </p>
     </td>
   </tr>
@@ -74,17 +76,17 @@ I love learning new technologies, contributing to open-source projects, and auto
     <td width="45%" valign="top">
       <h4 align="center">🛒 <a href="https://github.com/amir-malemir/django_onlineshop" target="_blank">Django OnlineShop</a></h4>
       <p align="center">
-        Modular online shopping app built with Django.<br>
-        ➡️ **Tech:** Django, SQLite, HTML/CSS<br>
-        ➡️ Features product management, user authentication, and organized templates for easy customization.
+        Simple modular online shopping app.<br>
+        🔧 **Stack:** Django, SQLite, HTML/CSS<br>
+        ✅ Features product management, user authentication, and organized templates for easy customization.
       </p>
     </td>
     <td width="45%" valign="top">
-      <h4 align="center">🔑 <a href="https://github.com/amir-malemir/password-generator" target="_blank">Password Generator</a></h4>
+      <h4 align="center">🔐 <a href="https://github.com/amir-malemir/password-generator" target="_blank">Password Generator</a></h4>
       <p align="center">
-        Simple password generator web app.<br>
-        ➡️ **Tech:** Python, Django, Bootstrap<br>
-        ➡️ Generates strong random passwords with user-defined options.
+        CLI-based password generator script.<br>
+        🔧 **Stack:** Python<br>
+        ✅ Generates strong random passwords based on user-defined options.
       </p>
     </td>
   </tr>
