@@ -86,13 +86,21 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amir_malemir&theme=tokyonight&layout=compact" />
 </p>
 
+### 📚 **Currently Learning**
+
+- 🧠 Data Structures & Algorithms (for better problem-solving and coding interviews)
+- 🐳 Docker (containerization, images, networks, and composing services)
+- 🐧 Linux (commands, shell scripting, and system fundamentals)
+
+---
 <p align="center">
   <img src="https://raw.githubusercontent.com/amir-malemir/amir-malemir/output/github-contribution-grid-snake.svg" />
 </p>
 
+
 ---
 
 <p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i><br>
+  <i>“برنامه‌نویس خوب کسیه که تنبلیش رو درست مدیریت کنه.” – جادی میرمیرانی</i><br>
   ☕ Thank you for visiting my profile!
 </p>
