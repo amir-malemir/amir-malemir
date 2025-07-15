@@ -40,18 +40,35 @@
       <h4 align="center">💼 <a href="https://github.com/amir-malemir/leave-project" target="_blank">Leave Management API</a></h4>
       <p align="center">
         RESTful API for managing employee leave requests.<br>
-        ➡️ Built with FastAPI & PostgreSQL.<br>
-        ➡️ JWT Auth, role-based permissions.<br>
-        ➡️ Unit testing with Pytest & OpenAPI docs.
+        ➡️ **Tech:** FastAPI, SQLAlchemy, Alembic, PostgreSQL<br>
+        ➡️ Features JWT auth, role-based permissions, multi-stage approval flow, and unit tests with Pytest.
       </p>
     </td>
     <td width="45%" valign="top">
-      <h4 align="center">📚 <a href="https://github.com/amir-malemir/Book-Store-Django" target="_blank">E-commerce Bookstore</a></h4>
+      <h4 align="center">📚 <a href="https://github.com/amir-malemir/django_book_store" target="_blank">Django Bookstore</a></h4>
       <p align="center">
-        Modular e-commerce platform for selling books.<br>
-        ➡️ Built with Django.<br>
-        ➡️ User auth & product catalog management.<br>
-        ➡️ Clean ORM design & scalable structure.
+        An e-commerce platform for selling books online.<br>
+        ➡️ **Tech:** Django, SQLite, Bootstrap<br>
+        ➡️ Includes user auth, product catalog, cart functionality, and clean ORM models.
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="45%" valign="top">
+      <h4 align="center">🛒 <a href="https://github.com/amir-malemir/django_onlineshop" target="_blank">Django OnlineShop</a></h4>
+      <p align="center">
+        Modular online shopping app built with Django.<br>
+        ➡️ **Tech:** Django, SQLite, HTML/CSS<br>
+        ➡️ Features product management, user authentication, and organized templates for easy customization.
+      </p>
+    </td>
+    <td width="45%" valign="top">
+      <h4 align="center">🔑 <a href="https://github.com/amir-malemir/password-generator" target="_blank">Password Generator</a></h4>
+      <p align="center">
+        Simple password generator web app.<br>
+        ➡️ **Tech:** Python, Django, Bootstrap<br>
+        ➡️ Generates strong random passwords with user-defined options.
       </p>
     </td>
   </tr>
