@@ -121,5 +121,5 @@ I love learning new technologies, contributing to open-source projects, and auto
 
 <p align="center">
   <i>“برنامه‌ نویس خوب کسیه که تنبلیش رو درست مدیریت کنه.” – جادی میرمیرانی</i><br>
-  ☕ Thank you for visiting my profile!
+  ☕ !Thank you for visiting my profile
 </p>
