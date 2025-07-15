@@ -16,6 +16,22 @@
 
 ---
 
+### 👨‍💻 **About Me**
+
+Hi, I'm Amir – a backend developer passionate about building clean, scalable, and maintainable APIs.  
+I mainly work with **Python, FastAPI, and Django**, designing systems that solve real-world problems efficiently.  
+I love learning new technologies, contributing to open-source projects, and automating repetitive tasks to boost productivity.
+
+---
+
+### 📚 **Currently Learning**
+
+- 🧠 Data Structures & Algorithms (for better problem-solving and coding interviews)
+- 🐳 Docker (containerization, images, networks, and composing services)
+- 🐧 Linux (commands, shell scripting, and system fundamentals)
+
+---
+
 ### 🛠️ **My Core Tech Stack**
 
 <p align="center">
@@ -30,7 +46,7 @@
 
 ---
 
-### 🚀 **Featured Projects**
+### 💻 **My Projects Showcase**
 
 <div align="center">
 
@@ -78,14 +94,6 @@
 
 ---
 
-### ✨ **More Projects**
-
-<p align="center">
-  🔗 <a href="https://github.com/amir-malemir?tab=repositories" target="_blank">Check out my other repositories for automation scripts, learning projects, and more!</a>
-</p>
-
----
-
 ### 📊 **My GitHub Stats & Activity**
 
 <table width="100%">
@@ -103,21 +111,13 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amir_malemir&theme=tokyonight&layout=compact" />
 </p>
 
-### 📚 **Currently Learning**
-
-- 🧠 Data Structures & Algorithms (for better problem-solving and coding interviews)
-- 🐳 Docker (containerization, images, networks, and composing services)
-- 🐧 Linux (commands, shell scripting, and system fundamentals)
-
----
 <p align="center">
   <img src="https://raw.githubusercontent.com/amir-malemir/amir-malemir/output/github-contribution-grid-snake.svg" />
 </p>
 
-
 ---
 
 <p align="center">
-  <i>“برنامه‌نویس خوب کسیه که تنبلیش رو درست مدیریت کنه.” – جادی میرمیرانی</i><br>
+  <i>“برنامه‌ نویس خوب کسیه که تنبلیش رو درست مدیریت کنه.” – جادی میرمیرانی</i><br>
   ☕ Thank you for visiting my profile!
 </p>
