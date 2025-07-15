@@ -22,10 +22,10 @@
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
   <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
 </p>
 
 ---
@@ -37,7 +37,7 @@
 <table>
   <tr>
     <td width="45%" valign="top">
-      <h4 align="center">💼 <a href="https://github.com/amir-malemir/Leave-Management-System-FastAPI" target="_blank">Leave Management API</a></h4>
+      <h4 align="center">💼 <a href="https://github.com/amir-malemir/leave-project" target="_blank">Leave Management API</a></h4>
       <p align="center">
         RESTful API for managing employee leave requests.<br>
         ➡️ Built with FastAPI & PostgreSQL.<br>
